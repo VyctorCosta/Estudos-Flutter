@@ -1,4 +1,4 @@
-import 'car.dart';
+import '../car.dart';
 
 main() {
   var car = Car(maxSpeed: 150);
