@@ -1,0 +1,11 @@
+FlatButton -> TextButton
+style: TextButton.styleFrom(
+  backgroundColor: color
+  primary: textColor
+)
+
+RaisedButton -> ElevatedButton
+style: ElevatedButton.styleFrom(
+  primary: color
+  onPrimary: textColor
+)
